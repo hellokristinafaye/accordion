@@ -1,10 +1,38 @@
 * {
    margin: 0;
-   padding: 0;    
+   padding: 0;   
+   /* color: red;  */
+   /* border: none; */
 }
 h1 {
     text-align: center;
     margin: 50px 0 !important;
     font-family: sans-serif;
-    
+}
+/* deviating from the tutorial b/c at that time they were using the class "card" but now it's this.  hopefully lol */
+
+/* .accordion {
+    color: red !important;
+}
+/
+.accordion-item{
+    color: green;
+    border: none;
+} */
+button {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    margin-bottom: 20 !important;
+}
+
+.accordion-header {
+    background-color: transparent   !important;
+    border: none !important;
+    padding: 0 !important;
+    margin-bottom: 20 !important;
+}
+
+.accordion-item {
+    box-shadow: 0 2px 20px 0 rgba(110,130,208, .18);
 }
