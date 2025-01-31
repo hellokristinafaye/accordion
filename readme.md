@@ -2,6 +2,13 @@ Overview:
 
 Technologies Used:
 
+- HTML
+- CSS
+- Bootstrap
+- jQuery
+- JavaScript
+- CDN
+
 Features:
 
 Future Development:
